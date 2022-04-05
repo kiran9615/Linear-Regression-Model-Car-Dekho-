@@ -10,10 +10,17 @@ In this project I'm trying to analyse and visualize the used car prices from the
 
 The columns in the given dataset are as follows:
 name
+
 year
+
 selling_price
+
 km_driven
+
 fuel
+
 seller_type
+
 transmission
+
 Owner
