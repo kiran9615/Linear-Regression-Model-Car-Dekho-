@@ -9,18 +9,19 @@ In this project I'm trying to analyse and visualize the used car prices from the
 
 
 The columns in the given dataset are as follows:
-name
 
-year
+name  -  It shows the name of the car which includes brand and model of the car.
 
-selling_price
+year  -  It shows the year in which car was bought.
 
-km_driven
+selling_price  -  It shows selling price of the car.
 
-fuel
+km_driven  -  It shows the distance travelled by the car in km.
 
-seller_type
+fuel  -  It shows the type of the fuel used by car.
 
-transmission
+seller_type  -  It shows about the seller, whether the seller is individual or dealer.
 
-Owner
+transmission  -  It shows car is manual or automatic.
+
+Owner  -  It shows the number of owners car previously had.
